@@ -9,4 +9,8 @@
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ddd73471d1dd80c844d0a3846725a857c39bf830
